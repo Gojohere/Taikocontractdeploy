@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Convert the script to Unix format
+dos2unix "$0"
 # Taiko Blockchain Deployment Script
 
 # Gather information for deployment
