@@ -6,18 +6,10 @@ This script simplifies the deployment process of smart contracts on the Taiko bl
 
 ## Usage
 
-1. **Clone the Repository:**
+1. **Run The Script:**
  ```
-git clone https://github.com/gojohere/taikocontractdeploy.git
-cd taikocontractdeploy
-chmod +x deploy.sh
- ```
+git clone https://github.com/gojohere/taikocontractdeploy.git && cd taikocontractdeploy && chmod +x deploy.sh && sudo apt install dos2unix && dos2unix deploy.sh && ./deploy.sh
 
-2. **Run the Script:**
-- Open a terminal and navigate to the cloned directory.
-- Execute the script:
-  ```
-  ./deploy.sh
   ```
 
 3. **Follow the Wizard:**
