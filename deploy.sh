@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Taiko Blockchain Deployment Script
 
 # Gather information for deployment
@@ -44,3 +45,4 @@ forge create src/Counter.sol:Counter \
 # Celebration and thanks for completing the deployment
 echo -e "\n\n🎉 Congratulations! Your Taiko deployment is complete 🚀"
 echo "🌟 Thank you for using the Taiko Blockchain Deployment Script! May your Taiko smart contracts prosper!"
+
